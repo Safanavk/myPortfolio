@@ -1,0 +1,25 @@
+@media screen and (max-width:768px){
+    .banner-texts, .startnmore{
+        display: none;
+    }
+    .achivements{
+        display: block;
+    }
+    .myach-row{
+        display: block;
+    }
+    
+}
+@media screen and (max-width:576px){
+    .startnmore button{
+        display: block;
+        
+    }
+    .my-navbar{
+        display: none;
+    }
+    .social-icons ul{
+        display: none;
+    }
+    
+}
